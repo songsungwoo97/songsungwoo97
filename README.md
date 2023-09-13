@@ -23,7 +23,10 @@
 ![](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
 ![](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![](https://img.shields.io/badge/MySQL
+![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</center>
+
 
 
 
