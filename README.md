@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 <div align="center">
-  # 안녕하세요👋  저는 컴퓨터공학과를 전공한 송성우입니다.
+  안녕하세요👋 <br>
+  저는 컴퓨터공학과를 전공한 송성우입니다.
 
   🌱 현재 저는 **Java**과 **JavaScript**를 주로 사용하고 있습니다.<br>
   🔭 최근에는 **웹 개발**에 관심이 많습니다.<br>
