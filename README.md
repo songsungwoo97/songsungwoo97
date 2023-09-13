@@ -16,9 +16,7 @@
 ![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
 <br>
-
 ![](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
