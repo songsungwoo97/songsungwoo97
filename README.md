@@ -8,4 +8,6 @@
 - 💬 프로그래밍에 관련된 흥미로운 이야기를 나누고 싶으시면 언제든지 연락주세요!
 - 📫 연락처: sqwa9200@naver.com
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=songsungwoo97&show_icons=true&theme=tokyonight)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
